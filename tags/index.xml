@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Abhishek Kumar</title>
+    <link>https://abhishekkumar-0311.github.io/AK_Portfolio/tags/</link>
+    <description>Recent content in Tags on Abhishek Kumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://abhishekkumar-0311.github.io/AK_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML-Classification</title>
+      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/tags/ml-classification/</link>
+      <pubDate>Fri, 20 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/tags/ml-classification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ML</title>
+      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/tags/ml/</link>
+      <pubDate>Sat, 31 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EDA</title>
+      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/tags/eda/</link>
+      <pubDate>Tue, 20 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/tags/eda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

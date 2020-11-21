@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML on Abhishek Kumar</title>
+    <link>https://abhishekkumar-0311.github.io/AK_Portfolio/tags/ml/</link>
+    <description>Recent content in ML on Abhishek Kumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 31 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://abhishekkumar-0311.github.io/AK_Portfolio/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 3: ML - Shared Bike Demand Prediction</title>
+      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 31 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-3/</guid>
+      <description>Abstract : This project tries to predict the bike demand after the ongoing quarantine ends using multiple linear regression model.
+Business Objective : A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;ldquo;dock&amp;rdquo; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it.</description>
+    </item>
+    
+  </channel>
+</rss>

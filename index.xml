@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello World! on Abhishek Kumar</title>
+    <link>https://abhishekkumar-0311.github.io/AK_Portfolio/</link>
+    <description>Recent content in Hello World! on Abhishek Kumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Nov 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://abhishekkumar-0311.github.io/AK_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 5: ML - SMS Spam Detection</title>
+      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-5/</link>
+      <pubDate>Fri, 20 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-5/</guid>
+      <description>Abstract : This task classifies the spam and non-spam SMSes using naive bayes.
+Problem Solving Methodology :   Github Repo</description>
+    </item>
+    
+    <item>
+      <title>Project 4: ML - Telecom Churn Prediction</title>
+      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-4/</link>
+      <pubDate>Tue, 10 Nov 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-4/</guid>
+      <description>Abstract : This project tries to identify customers at high risk of churn and identify the main indicators of churn through logistic regression.
+Github Repo</description>
+    </item>
+    
+    <item>
+      <title>Project 3: ML - Shared Bike Demand Prediction</title>
+      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-3/</link>
+      <pubDate>Sat, 31 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-3/</guid>
+      <description>Abstract : This project tries to predict the bike demand after the ongoing quarantine ends using multiple linear regression model.
+Business Objective : A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a &amp;ldquo;dock&amp;rdquo; which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: EDA - Lending Club Credit Default Analysis</title>
+      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-2/</link>
+      <pubDate>Tue, 20 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-2/</guid>
+      <description>Abstract : The Credit Default Analysis is performed on customer data of LendingClub to identify the driver features of loan defaulters.
+Business Objective : For lending companies, lending loans to risky applicants is the largest source of financial loss. The credit loss is the amount of money lost by the lender when the borrower defaults to a loan payment. In such a case, the concerned person is labelled as charged-off and defaulters.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: EDA - Investment Analysis</title>
+      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-1/</link>
+      <pubDate>Mon, 28 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-1/</guid>
+      <description>Abstract : The CEO of Spark Funds, an asset management company wants to understand the global trends in investments so that she can take the investment decisions effectively.
+Business Objective : The objective is to identify the best sectors, countries, and a suitable investment/funding type for making investments.
+Investment Constraints : Strategy is to invest where most other investors are investing with below 2 minor restrictions for investments
+ Invest between 5 to 15 million USD per round of investment Invest only in English speaking countries for the ease of communication with the companies it would invest in.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/contact/</guid>
+      <description>Follow me on these social media platforms
+   Platform URL     LinkedIn: https://bit.ly/AKSLinkedIn   GitHub : https://bit.ly/AKGithub   Twitter : https://bit.ly/AKSTwitter   Website : https://bit.ly/AKS-Portfolio   Email : abhi03.11sharma@gmail.com    </description>
+    </item>
+    
+  </channel>
+</rss>
