@@ -8,13 +8,14 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://abhishekkumar-0311.github.io/AK_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 5: ML - SMS Spam Detection</title>
-      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-5/</link>
-      <pubDate>Fri, 20 Nov 2020 10:58:08 -0400</pubDate>
+      <title>Micro Projects</title>
+      <link>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-0/</link>
+      <pubDate>Wed, 16 Dec 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-5/</guid>
-      <description>Abstract : This task classifies the spam and non-spam SMSes using naive bayes.
-Problem Solving Methodology :   Github Repo</description>
+      <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-0/</guid>
+      <description>This contains DataScience, MachineLearning, NLP, NeuralNet &amp;amp; RL related Micro Projects &amp;amp; Tasks completed during academic &amp;amp; self-learning period.
+Contents   Machine Learning   ML - CO2 Emission Prediction: This project tries to identify the macroeconomic factors that are biggest predictors of global warming i.e. global carbon dioxide emissions using Lasso Regularization Regression.
+  ML - SMS Classifier: This project classifies the SMS as spam vs non-spam through naive bayes.</description>
     </item>
     
     <item>
@@ -24,7 +25,8 @@ Problem Solving Methodology :   Github Repo</description>
       
       <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-4/</guid>
       <description>Abstract : This project tries to identify customers at high risk of churn and identify the main indicators of churn through logistic regression.
-Github Repo</description>
+Github Repo
+WIP&amp;hellip;</description>
     </item>
     
     <item>
