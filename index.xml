@@ -6,15 +6,15 @@
     <description>Recent content in Hello World! on Abhishek Kumar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Dec 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://abhishekkumar-0311.github.io/AK_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Jun 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://abhishekkumar-0311.github.io/AK_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Micro Projects</title>
       <link>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-0/</link>
-      <pubDate>Wed, 16 Dec 2020 10:58:08 -0400</pubDate>
+      <pubDate>Sat, 12 Jun 2021 10:58:08 -0400</pubDate>
       
       <guid>https://abhishekkumar-0311.github.io/AK_Portfolio/post/project-0/</guid>
       <description>This contains DataScience, MachineLearning, NLP, NeuralNet &amp;amp; RL related Micro Projects &amp;amp; Tasks completed during academic &amp;amp; self-learning period.
-Contents   Machine Learning   ML - CO2 Emission Prediction: This project tries to identify the macroeconomic factors that are biggest predictors of global warming i.e. global carbon dioxide emissions using Lasso Regularization Regression.
+Contents   Machine Learning   ML - CO2 Emission Prediction: This project tries to identify the macroeconomic factors that are biggest predictors of global warming i.e. global carbon dioxide emissions using Lasso Regularization Regression. Read More
   ML - SMS Classifier: This project classifies the SMS as spam vs non-spam through naive bayes.</description>
     </item>
     
